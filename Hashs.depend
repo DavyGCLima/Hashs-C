@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1506618589 source:e:\ifes\tpa\segundo trabalho - hash\projeto\hashs\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hashFechada.h"
+	"hashAberta.h"
+
+1506390839 e:\ifes\tpa\segundo trabalho - hash\projeto\hashs\lista.h
+	<stdlib.h>
+	<time.h>
+
+1506562546 source:e:\ifes\tpa\segundo trabalho - hash\projeto\hashs\hashaberta.c
+	"hashAberta.h"
+
+1506557544 source:e:\ifes\tpa\segundo trabalho - hash\projeto\hashs\hashfechada.c
+	"hashFechada.h"
+	<stdlib.h>
+
+1506557339 source:e:\ifes\tpa\segundo trabalho - hash\projeto\hashs\lista.c
+	"lista.h"
+	<string.h>
+	<stdio.h>
+	<time.h>
+
+1506347923 e:\ifes\tpa\segundo trabalho - hash\projeto\hashs\hashfechada.h
+	"lista.h"
+	<string.h>
+
+1506465869 e:\ifes\tpa\segundo trabalho - hash\projeto\hashs\hashaberta.h
+	"lista.h"
+	<string.h>
+
+1507038743 source:e:\google drive\ifes\tpa\segundo trabalho - hash\projeto\hashs\hashaberta.c
+	"hashAberta.h"
+
+1506465869 e:\google drive\ifes\tpa\segundo trabalho - hash\projeto\hashs\hashaberta.h
+	"lista.h"
+	<string.h>
+
+1506390839 e:\google drive\ifes\tpa\segundo trabalho - hash\projeto\hashs\lista.h
+	<stdlib.h>
+	<time.h>
+
+1507074498 source:e:\google drive\ifes\tpa\segundo trabalho - hash\projeto\hashs\hashfechada.c
+	"hashFechada.h"
+	<stdlib.h>
+
+1506347923 e:\google drive\ifes\tpa\segundo trabalho - hash\projeto\hashs\hashfechada.h
+	"lista.h"
+	<string.h>
+
+1506557339 source:e:\google drive\ifes\tpa\segundo trabalho - hash\projeto\hashs\lista.c
+	"lista.h"
+	<string.h>
+	<stdio.h>
+	<time.h>
+
+1507063834 source:e:\google drive\ifes\tpa\segundo trabalho - hash\projeto\hashs\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hashFechada.h"
+	"hashAberta.h"
+
